@@ -268,6 +268,11 @@ C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Entity\Inte
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Entity\Interfaces\WCICustomerDetails.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Entity\Interfaces\WCIPersonalInfo.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Entity\Interfaces\WCIPhoneDetails.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Migrations\20170213110901_NewContosoUniversityMigration.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Migrations\20170213110901_NewContosoUniversityMigration.Designer.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Migrations\20170217093834_NCMigration_Changes.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Migrations\20170217093834_NCMigration_Changes.Designer.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Migrations\NewContosoUniversityDBContextModelSnapshot.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\ApplicationUser.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\AccountViewModels\ForgotPasswordViewModel.cs
@@ -276,10 +281,7 @@ C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\Acco
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\AccountViewModels\ResetPasswordViewModel.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\AccountViewModels\SendCodeViewModel.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\AccountViewModels\VerifyCodeViewModel.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ReduntantViewModelCustomerDetails.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelNewCustomer.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelNewCustomerContact.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelNewCustomerInteraction.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelCustomerInteraction.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelSearchCustomer.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\CustomerSupport\ViewModelSearchCustomerResults.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\ManageViewModels\AddPhoneNumberViewModel.cs
@@ -293,10 +295,8 @@ C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\Mana
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\IEmailSender.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\ISmsSender.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\ISvcMySQLWCInteractions.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\ISvcWCCustomerDetails.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\ISvcWCInteractions.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\ISvcWCMasterData.cs
 C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\MessageServices.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\SvcCustomerDetails.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\SvcWCInteractions.cs
-C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\SvcWCMasterData.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\SvcMySQLCustomerDetails.cs
+C:\Mallikarjun\Working\NewContosoUniversity\src\NewContosoUniversity\Services\SvcMySQLWCInteractions.cs
