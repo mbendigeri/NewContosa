@@ -1,0 +1,3 @@
+﻿StaffID,AddressTypeID,Building,City,DoorNo,FirstName,LandMark,LastName,Locality,MiddleName,ModifiedOn,Pincode,Street1,Street2
+1,1,Deccan Enclave,Bangalore,Apt-203,Rajesh,Patnager Bus Stop,Jagaadeesan,RRNagar,S,2017-02-28 13:37:32.6486978,560098,17th Cross,BEML 5th Stage
+2,1,Benny Apartments,Bangalore,APt-009,Mangalam,Estart,Puranik,Benny Layout,S,2009-02-19 00:00:00.0000000,560098,3rd cross,5th Main

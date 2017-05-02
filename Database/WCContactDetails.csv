@@ -1,0 +1,7 @@
+﻿ContactID,ContactPerson,CustomerID,Email,EmergencyPhone,LinkedInURL,ModifiedOn,PhoneNumber,PhoneType,PrimaryPhone,RelationShip,StaffID,WebsiteURL
+1,Mallikarjun,1,mbendigeri@gmail.com,0,WWW.LinkedIn.com/MallikarjunBendigeri,2017-02-28 13:37:32.5906920,9845593009,Mobile,1,Self,NULL,WWW.Bendigeri.com
+2,Sheela,1,Sheela.bendigeri@gmail.com,0,WWW.LinkedIn.com/MallikarjunBendigeri,2017-02-28 13:37:32.5916921,9945603135,Mobile,0,Wife,NULL,WWW.SheelaBendigeri.com
+3,Sharnabasappa,1,sharabendigei@gmail.com,0,NULL,2017-02-28 13:37:32.5916921,9823423801,Mobile,0,father,NULL,NULL
+4,Rudresh,2,Rudresh@gmail.com,0,WWW.LinkedIn.com,2017-02-28 13:37:32.5916921,9234398234,Mobile,1,Self,NULL,WWW.SagarDharpur.com
+5,Vishwanath,2,Vishwanath@gmail.com,0,WWW.LinkedIn.com/Vishwanat,2017-02-28 13:37:32.5916921,7823423434,Mobile,0,Father,NULL,WWW.SagarDharpur.com
+6,Arvind,1,ArvindMekin@gmail.com,0,NULL,2017-02-28 13:37:32.5916921,9823423801,Mobile,0,Friend,NULL,NULL

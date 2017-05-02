@@ -1,0 +1,4 @@
+﻿CustomerID,AddressTypeID,Building,City,DoorNo,FirstName,LandMark,LastName,Locality,MiddleName,ModifiedOn,OccupationID,Organisation,Pincode,Street1,Street2
+1,1,Archita-3,Bangalore,APt-103,Mallikarjun,Bescom,Bendigeri,RRNagar,S,2017-02-28 13:37:30.0864416,2,HP,560098,18th Cross,Ideal Homes Layout
+2,1,Archita Daffodil,Bangalore,APt-502,Sagar,Bescom,Dharapur,RRNagar,G,2017-02-28 13:37:30.0874417,2,Robert Bosch,560098,17 Cross," Ideal Homes Layout"
+3,1,Arho,sdf,109,Somashekar,Park,CR,sdf,S,0001-01-01 00:00:00.0000000,1,Jyoti,560098,sdf,sdfsd

@@ -1,0 +1,3 @@
+﻿InteractionID,CallBackEndDate,CallBackEndTime,CallBackStartDate,CallBackStartTime,CommunicationChannelTypeID,ContactID,CustomerID,Discussion,FaceToFaceMeetingID,InteractDateTime,InteractiontypeID,ModifiedOn
+1,2017-04-13 00:00:00.0000000,2017-04-13 15:00:00.0000000,2017-04-13 00:00:00.0000000,2017-04-13 00:00:00.0000000,1,1,1,NULL,1,2017-03-13 00:00:00.0000000,1,2017-03-13 00:00:00.0000000
+2,2017-04-25 17:00:00.0000000,2017-04-25 17:00:00.0000000,2017-04-20 15:00:00.0000000,2017-04-20 15:00:00.0000000,1,1,1,Tried to reach him again. He is busy and wants to call at another time. Scheduled another F2F meeting,2,2017-04-19 17:30:00.0000000,1,2017-04-20 17:15:00.0000000
